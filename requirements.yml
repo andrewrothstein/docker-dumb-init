@@ -1,0 +1,3 @@
+---
+- src: andrewrothstein.dumb-init
+  version: v1.0.1
