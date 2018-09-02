@@ -1,4 +1,4 @@
 ---
 - src: andrewrothstein.pkg-upgrade
 - src: andrewrothstein.dumb-init
-  version: v1.1.2
+  version: v1.1.3
